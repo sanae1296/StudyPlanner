@@ -1,2 +1,8 @@
-# StudyPlanner
-A Python console app that helps students plan study sessions efficiently. Add subjects with priorities and hours, and it generates a daily study plan based on available time, showing which subjects to focus on first and remaining free time. Perfect for beginners learning Python and project management.
+# Study Planner
+
+A simple Python console program to plan study sessions based on priority and available hours.
+
+## How to Run
+1. Download `planner.py`  
+2. Run in terminal with: `python planner.py`
+3. Add your subjects and hours
